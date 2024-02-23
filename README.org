@@ -2,9 +2,8 @@
 
 A Gnuplot front-end for Common lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/masatoi/clgplot.git   |
-| commit  | 0ee8dc6  |
-| systems | clgplot |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/masatoi/clgplot.git |
+| commit  | e122bb8                                    |
+| systems | clgplot                                    |
+|---------+--------------------------------------------|
